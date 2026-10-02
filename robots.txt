@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://leandrobaccarin.com.br/sitemap.xml
